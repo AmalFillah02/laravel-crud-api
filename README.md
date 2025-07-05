@@ -34,7 +34,7 @@ Edit file .env:
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/laravel-api-data.git
+   git clone https://github.com/AmalFillah02/laravel-crud-api.git
    cd laravel-api-data
 2. Install depedensi:
    ```bash
