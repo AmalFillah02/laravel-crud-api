@@ -44,7 +44,7 @@ Edit file .env:
    php artisan serve
 
 ## 🌐 Antarmuka Web (Blade)
-📍 Akses melalui: http://localhost:xxxx/posts
+📍 Akses melalui: localhost:xxxx/posts
 
 ## 🧪 Dokumentasi API (Postman)
 📥 [Unduh koleksi Postman](./API.postman_collection.json)
