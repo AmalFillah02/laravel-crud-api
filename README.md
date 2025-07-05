@@ -11,6 +11,7 @@ Project ini dibuat sebagai bagian dari assessment tes.
 - 🖥️ UI Laravel dengan Blade & Bootstrap
 
 ## 📂 Konfigurasi Database
+
 Edit file .env:
 
 Jika menggunakan mysql:
