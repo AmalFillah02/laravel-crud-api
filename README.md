@@ -11,10 +11,9 @@ Project ini dibuat sebagai bagian dari assessment tes.
 - 🖥️ UI Laravel dengan Blade & Bootstrap
 
 ## 📂 Konfigurasi Database
-Opsi 1 – SQLite (praktis & cepat)
 Edit file .env:
 
--jika menggunakan mysql:
+Jika menggunakan mysql:
     ```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
