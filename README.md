@@ -14,14 +14,14 @@ Project ini dibuat sebagai bagian dari assessment tes.
 
 Edit file .env:
 
-Jika menggunakan mysql:
-    ```bash
-    DB_CONNECTION=mysql
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=nama-database
-    DB_USERNAME=root
-    DB_PASSWORD=
+- Jika menggunakan mysql:
+   ```bash
+   DB_CONNECTION=mysql
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_DATABASE=nama-database
+   DB_USERNAME=root
+   DB_PASSWORD=
 
 ## 📦 Instalasi
 
