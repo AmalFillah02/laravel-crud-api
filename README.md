@@ -10,9 +10,16 @@ Project ini dibuat sebagai bagian dari assessment tes.
 - 🧪 API dapat diakses dan diuji menggunakan Postman
 - 🖥️ UI Laravel dengan Blade & Bootstrap
 
-## 📂 Konfigurasi Database
+## 📂 Konfigurasi
 
 Edit file .env:
+- Generate key
+  ```bash
+  APP_NAME=Laravel
+  APP_ENV=local
+  APP_KEY=base64:xxxxxxxxx
+  APP_DEBUG=true
+  APP_URL=http://localhost
 
 - Jika menggunakan mysql:
    ```bash
@@ -35,10 +42,9 @@ Edit file .env:
 3. Copy file .env lalu koneksikan ke database lokal:
    ```bash
    cp .env.example .env
-   php artisan key:generate
-4. Jalankan migrasi dan seeder:
+4. generate key:
    ```bash
-   php artisan migrate --seed
+   php artisan key:generate
 5. Jalankan server:
    ```bash
    php artisan serve
