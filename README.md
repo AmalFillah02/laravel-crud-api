@@ -45,6 +45,9 @@ Edit file .env:
 4. generate key:
    ```bash
    php artisan key:generate
+4. migrasi database:
+   ```bash
+   php artisan migrate
 5. Jalankan server:
    ```bash
    php artisan serve
